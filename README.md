@@ -92,7 +92,7 @@ void loop()
 ```
 Output of the simulation :
 
-![output]()
+![output](https://github.com/gunasekhar159/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/EX-2%20ROBO.png?raw=true)
 
 Result :
 Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by
